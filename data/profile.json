@@ -16,12 +16,12 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/NatanCarFF/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/NatanCarFF/js-developer-portfolio/main/data/imgs/vscode.png"
       },
       {
         "name": "Mongodb",
