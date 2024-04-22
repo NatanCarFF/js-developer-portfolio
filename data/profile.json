@@ -1,6 +1,6 @@
 {
   "name": "Natanael C da Silva",
-  "photo": "https://github.com/NatanCarFF/js-developer-portfolio/blob/fe4634278bddcb327910c23aeed42c3a9d6f87fe/assets/img/my-photo.jpeg",
+  "photo": "https://avatars.githubusercontent.com/u/161735922?v=4",
   "job": "TI na WLAN FIBRA",
   "location": "Belém - PA",
   "phone": "(91) 98460-8108",
@@ -41,37 +41,36 @@
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Português BR (nativo)",
+    "Inglês (computacional)",
+    "Espanhol (computacional)"
   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/NatanCarFF/js-developer-pokedex",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/NatanCarFF/js-developer-portfolio",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
+      "name": "TI / WLAN FIBRA",
+      "period": "2023 - até o momento",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
+      "name": "Assistente Administrativo / ALIANSCE SHOPPING CENTERS SA",
+      "period": "2016 - 2022",
       "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
+      "name": "ELETRÔNICOS / C&A MODAS SA",
+      "period": "... - ...",
       "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
     }
   ]
