@@ -46,6 +46,10 @@
       {
         "name": "Google Earth Pro",
         "logo": "https://raw.githubusercontent.com/NatanCarFF/js-developer-portfolio/main/data/selos/google-pro.png"
+      },
+      {
+        "name": "Linux",
+        "logo": "https://raw.githubusercontent.com/NatanCarFF/js-developer-portfolio/main/data/selos/linux.png"
       }
     ],
     "softSkills": [
